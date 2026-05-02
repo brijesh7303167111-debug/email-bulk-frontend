@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Button from "@mui/material/Button";
 import Header from "./components/Header";
-import LeftSide from "./components/leftContanier/leftside";
+import LeftSide from "./components/leftContanier/LeftSide";
 import RightSide from "./components/rightContanier/RightSide";
 import { useEmail  } from "./Context/EmailProvider";
 
